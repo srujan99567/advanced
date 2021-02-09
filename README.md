@@ -1,4 +1,4 @@
-# advanced
+# 1advanced
 class One
 {
 	int a,b;
